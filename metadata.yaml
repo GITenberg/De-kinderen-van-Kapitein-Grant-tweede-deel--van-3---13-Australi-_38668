@@ -19,6 +19,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Júlio_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38668#De-kinderen-van-Kapitein-Grant-tweede-deel--van-3---13-Australi-
 gutenberg_issued: '2012-02-02'
 gutenberg_type: Text
 identifiers:
